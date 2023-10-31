@@ -66,7 +66,7 @@ testPalenca/
 
 - **routes**: Define las rutas .
 
-- **use_cases**: Contiene casos de uso que encapsulan la lógica d.
+- **use_cases**: Contiene casos de uso que encapsulan la lógica de cada endpoint.
 
 - **tests**: Aquí se encuentran todas las pruebas unitarias.
 
