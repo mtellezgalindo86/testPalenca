@@ -81,4 +81,7 @@ Ejecuta el siguiente comando
 docker-compose up --build
 ```
 
-## Dentro del proyecto encontraras un archivo llamado curl.txt donde se encuentran las peticiones que se tienen que hacer
+## Dentro del proyecto encontrarás un archivo llamado curl.txt donde se encuentran las peticiones que se tienen que hacer después de haber ejecutado el comando 
+```bash
+docker-compose up --build
+```
