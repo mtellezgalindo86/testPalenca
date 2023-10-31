@@ -10,5 +10,4 @@ curl --location --request POST 'http://127.0.0.1:8000/uber/login' \
 
 GET /uber/profile/<access_token>
 
-curl --location --request GET 'http://127.0.0.1:8000/uber/profile/cTV0aWFuQ2NqaURGRE82UmZXNVBpdTRxakx3V1F5’ \
---header 'Content-Type: application/json'
+curl --location --request GET 'http://127.0.0.1:8000/uber/profile/cTV0aWFuQ2NqaURGRE82UmZXNVBpdTRxakx3V1F5' \--header 'Content-Type: application/json'
