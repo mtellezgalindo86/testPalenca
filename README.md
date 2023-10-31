@@ -47,7 +47,6 @@ testPalenca/
 ├── tests/
 │   ├── unit/
 │   │   ├── test_login.py
-│   │   ├── test_profile.py
 │   │   └── __init__.py
 │   └── __init__.py
 ├── main.py
