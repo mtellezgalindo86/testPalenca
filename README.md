@@ -85,3 +85,5 @@ docker-compose up --build
 ```bash
 docker-compose up --build
 ```
+
+## Al momento de ejecutar el comando tambien se ejecutaran las pruebas  y en la consola se podrá observar el resultado de las pruebas 
