@@ -1,4 +1,4 @@
-# Utiliza una imagen base de Python
+# Se utiliza una imagen base de Python
 FROM python:3.9-slim
 
 # Establece el directorio de trabajo en la carpeta de la aplicación
